@@ -1,0 +1,13 @@
+smartersql
+~~~~~~~~~~
+
+A smarter interface to SQL.
+
+----
+
+Taken from the watchdog project (http://watchdog.net/), licensed under AGPLv3.
+smartersql for Python3.
+
+To install, simply use:
+
+  pip install git+https://github.com/leonardodominik801/smartersql.git
